@@ -6,7 +6,7 @@ Use this compact record before generation. `mode: auto` allows the skill to choo
 source_photo: "/absolute/path/to/user-photo.jpg"
 city: "成都" # confirmed by user, or no-city
 mode: "auto" # photo-overlay | freeform-cutout | auto
-props: ["熊猫", "火锅", "民谣"] # user-selected; [] is allowed
+props: null # omitted: curate 1-2 local accents; [] or explicit no objects: omit; a list: follow it
 greeting: "hello Chengdu!!" # optional; preserve exact text
 question: "where are we going next?" # optional; preserve exact text
 holiday_context: null # only if user supplies it

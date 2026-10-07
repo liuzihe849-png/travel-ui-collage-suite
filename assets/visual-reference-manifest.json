@@ -1,0 +1,17 @@
+{
+  "role": "style_reference_only",
+  "author": "理智画",
+  "github": "liuzihe849-png",
+  "not_source_identity": true,
+  "publication_authorized": true,
+  "visual_acceptance": "preview; user aesthetic approval and post-download retest remain separate",
+  "images": [
+    {
+      "path": "assets/reference-original.png",
+      "sha256": "e9566141b3acc2352ee2078c4eb0b94274c83116969b7a2bf67094c15f276ec0",
+      "origin": "author workflow original sample",
+      "limitations": "photo-overlay 预览的空白面板及部分边缘仍待改进，不是正式视觉验收基准。freeform 暂无原创公开样片。"
+    }
+  ],
+  "minimum_visual_signature": ""
+}
